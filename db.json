@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "firstname": "Kaushal",
+      "lastname": "Buccha",
+      "birthdate": "2023-11-01",
+      "gender": "m",
+      "education": "graduate",
+      "company": "SDE",
+      "jobExperience": 5,
+      "salary": 30,
+      "profile": "Profile-03.jpg",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
